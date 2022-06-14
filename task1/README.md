@@ -1,0 +1,1 @@
+The program prints the ASCII codes of the entered string of characters in hexadecimal format

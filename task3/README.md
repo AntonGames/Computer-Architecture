@@ -1,0 +1,2 @@
+This procedure verifies that the interrupt occurred before executing the first version of the DEC command, if so, 
+displays an alert and all information about the command: address, code, mnemonics, operands.
